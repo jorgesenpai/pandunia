@@ -7,7 +7,7 @@ theme: readthedocs
 nav:
     - Inicio: 'index.md'
     - 'Info':
-        - 'Principios': filsofe.md
+        - 'Principios': filsof.md
     - 'Lecciones':
         - 'Ortografía': abc.md
         - 'Frases básicas': fraze.md
