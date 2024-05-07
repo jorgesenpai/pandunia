@@ -2,26 +2,27 @@
 # 1. Reglas básicas de Pandunia
 
 Estas son las reglas básicas del idioma Pandunia.
-Ellas se describien en más detalle más tarde en este sitio.
+Ellas se describen posteriormente más en detalle en esta misma web.
 
 ### (1) Palabras mundiales
 
 Pandunia es una lengua equitativamente mundial.
-Palabras internacionales se prestan de todas partes del mundo a Pandunia.
-Ellas se ajustan a la ortografía y la pronuciación de Pandunia.
-Una palabra básica se ingresa y palabras adicionales se construyen con ella, de acuerdo con regla 10.
+Las palabras internacionales de pandunia son provenientes de todas las partes del mundo.
+Ellas se ajustan a la ortografía y a la pronuciación de Pandunia.
+Con una palabra básica que ingresa, se pueden construir palabras adicionales, de acuerdo con regla 10.
 
 
-### (2 Ortografía y pronunciación
-Ortografía es sencilla y regular.
+### (2) Ortografía y pronunciación
+
+La ortografía es sencilla y regular.
 Cada palabra se pronuncia exactamente como se escribe.
-Cada letra y combinación de letras siempre representa el sonido misma.
+Cada letra y combinación de letras siempre representa el mismo sonido.
 
 
 ### (3) Acento regular
 
-Si la palabra tiene una o dos sílabas, la primer sílaba es acentuada.
-Si la palabra tiene tres o más sílabas, la segunda sílaba es acentuada.
+Las palabras básicas son acentuadas en la sílaba anterior a la última consonante, por ejemplo: **háu** ('benéfico'), **dúnia** ('mundo'), **báshe** ('idioma'), **alkól** ('alcohol').
+Las palabras compuestas son acentuadas de acuerdo a sus palabras raices, heredando el acento principal de la palabra raíz que le dá el significado a la palabra compuesta.
 
 
 ### (4) Pronombres
